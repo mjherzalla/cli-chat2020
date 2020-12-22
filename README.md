@@ -6,11 +6,7 @@
   </a>
 </p>
 
->
->1.To send message to Channel type and hit enter
->2.To send Private message type " @username yourmessage "
->3.Use Tab Key to auto-complete usernames
->4.To view all the current users in the room Double Tab 
+
 
 ## Install
 
@@ -24,6 +20,11 @@ After Installing it gobelly  you can start the  chat app by calling in your term
 cli-chat2020 
 ```
  
+1.To send message to Channel type and hit enter
+2.To send Private message type " @username yourmessage "
+3.Use Tab Key to auto-complete usernames
+4.To view all the current users in the room Double Tab 
+
 
 ## Author
 
