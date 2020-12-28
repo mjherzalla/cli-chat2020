@@ -1,0 +1,26 @@
+{
+  "name": "cli-chat2020",
+  "version": "1.5.8",
+  "description": "<h1 align=\"center\">Welcome to clichat 👋</h1> <p>   <img alt=\"Version\" src=\"https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000\" />   <a href=\"#\" target=\"_blank\">     <img alt=\"License: ISC\" src=\"https://img.shields.io/badge/License-ISC-yellow.svg\" />   </a> </p>",
+  "main": "bin/index.js",
+  "preferGlobal": true,
+  "bin": {
+    "cli-chat2020": "bin/index.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "socket.io-client": "^3.0.4"
+  },
+  "keywords": [
+    "cli chat","chat","command line chat","cmd chat","socket io","Software developer chat "
+  ],
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node  ./bin/index"
+  },
+  "author": "mjherzalla",
+  "license": "ISC"
+}
