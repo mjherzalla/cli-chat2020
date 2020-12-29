@@ -21,7 +21,7 @@ npm i -g cli-chat2020
 ## Usage
 After Installing it gobelly  you can start the  chat app by calling in your termenal  
 ```sh
-clichat2020 
+cli-chat2020 
 ```
 >
 >1.To send message to Channel type and hit enter
